@@ -1,7 +1,7 @@
 --- 
 title: "Networking Fundamentals — Week 1: OSI Model, HTTP, DNS & Transport Layer"
 date: 2025-01-01 00:00:00 +0200
-categories: [Notes, Networking]
+categories: [CatReloaded Entry Level, Networking]
 tags: [networking, OSI, HTTP, DNS, TCP, UDP, IP, CCNA, fundamentals]
 description: My Week 1 notes from CAT Reloaded entry-level program covering the OSI model layers, DNS, HTTP, TCP/UDP, IP addressing, and subnetting.
 ---
