@@ -10,7 +10,7 @@ order: 4
 
 ## 🧠 About Me
 
-- 🎓 Computer Science student @ Mansoura University (Faculty of Computer & Information Sciences)
+- 🎓 First Year Computer Science student @ Mansoura University (Faculty of Computer & Information Sciences)
 - 🔐 Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
 - 🛠️ IT Support Technician with hands-on hardware & networking experience
 - 🌍 Based in Mansoura, Egypt
@@ -68,7 +68,7 @@ order: 4
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1a1b27&borderRadius=10px&idleMessage=Probably%20hacking%20something..." />
+  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1a1b27&borderRadius=10px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 </p>
 
 ---
@@ -80,12 +80,11 @@ order: 4
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
-
