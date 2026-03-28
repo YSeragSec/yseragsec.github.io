@@ -10,7 +10,7 @@ order: 4
 
 ## 🧠 About Me
 
-- 🎓 First Year Computer Science student @ Mansoura University (Faculty of Computer & Information Sciences)
+- 🎓 Computer Science student @ Mansoura University (Faculty of Computer & Information Sciences)
 - 🔐 Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
 - 🛠️ IT Support Technician with hands-on hardware & networking experience
 - 🌍 Based in Mansoura, Egypt
@@ -21,51 +21,68 @@ order: 4
 ## ⚔️ Skills & Tools
 
 ### 🔍 Offensive & Recon
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=white)
+
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white" alt="Ghidra"/>
+<img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=white" alt="GDB"/>
+</div>
 
 ### 🧪 Forensics & Analysis
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white)
-![ExifTool](https://img.shields.io/badge/ExifTool-6A0DAD?style=for-the-badge&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-4A90D9?style=for-the-badge&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-2E2E2E?style=for-the-badge&logoColor=white)
-![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logoColor=white)
-![Steghide](https://img.shields.io/badge/Steghide-555555?style=for-the-badge&logoColor=white)
+
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" alt="Hashcat"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+<img src="https://img.shields.io/badge/ExifTool-6A0DAD?style=for-the-badge&logoColor=white" alt="ExifTool"/>
+<img src="https://img.shields.io/badge/CyberChef-4A90D9?style=for-the-badge&logoColor=white" alt="CyberChef"/>
+<img src="https://img.shields.io/badge/Autopsy-2E2E2E?style=for-the-badge&logoColor=white" alt="Autopsy"/>
+<img src="https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logoColor=white" alt="Binwalk"/>
+<img src="https://img.shields.io/badge/Steghide-555555?style=for-the-badge&logoColor=white" alt="Steghide"/>
+</div>
 
 ### 🖥️ Systems & Platforms
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+</div>
 
 ### 💻 Languages & Dev
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</div>
 
 ### 🌐 Networking
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logoColor=white)
+
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+<img src="https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge&logoColor=white" alt="TCP/IP"/>
+<img src="https://img.shields.io/badge/DNS-005571?style=for-the-badge&logoColor=white" alt="DNS"/>
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logoColor=white" alt="Networking"/>
+</div>
+
+---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefserag/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YSeragSec)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=jekyll&logoColor=white)](https://yseragsec.github.io)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/751180791492378774)
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yousefserag@proton.me)
+<div style="display:flex; flex-wrap:wrap; gap:6px;">
+<a href="https://www.linkedin.com/in/yousefserag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/YSeragSec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://yseragsec.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog"/></a>
+<a href="https://discord.com/users/751180791492378774"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="mailto:yousefserag@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YSeragSec&style=for-the-badge&color=557C94" alt="Profile views"/>
-</p>
+<br>
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=1a1b27&borderRadius=10px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
@@ -76,7 +93,7 @@ order: 4
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Researcher+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Researcher+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG"/>
 </p>
 
 <p align="center">
