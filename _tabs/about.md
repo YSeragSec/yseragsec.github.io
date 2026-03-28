@@ -97,11 +97,11 @@ order: 4
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" style="width:100%;max-width:700px;" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true" width="80%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true" style="width:100%;max-width:700px;" alt="GitHub Activity Graph"/>
 </p>
 
 ---
