@@ -1,0 +1,8 @@
+<footer class="d-flex justify-content-center align-items-center">
+  <p class="mb-0">
+    <span>© <span id="copyright-year"></span> {{ site.social.name }}</span>
+  </p>
+  <script>
+    document.getElementById('copyright-year').textContent = new Date().getFullYear();
+  </script>
+</footer>
