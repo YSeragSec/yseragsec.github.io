@@ -98,7 +98,7 @@ order: 4
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&theme=high-contrast&hide_border=true&area=true"
        width="700"
        alt="GitHub Activity Graph" />
 </p>
