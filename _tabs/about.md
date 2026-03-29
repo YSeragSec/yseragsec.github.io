@@ -8,13 +8,9 @@ order: 4
 
 > *"The quieter you become, the more you can hear."*
 
-## 🧠 About Me
-
-- 🎓 Computer Science student @ Mansoura University (Faculty of Computer & Information Sciences)
+- 🎓 First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
 - 🔐 Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
 - 🛠️ IT Support Technician with hands-on hardware & networking experience
-- 🌍 Based in Mansoura, Egypt
-- 🎯 Goal: Penetration Testing specialist → Red Team → someday, my own AI-sec company
 
 ---
 
@@ -93,7 +89,7 @@ order: 4
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Researcher+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG"/>
 </p>
 
 <p align="center">
