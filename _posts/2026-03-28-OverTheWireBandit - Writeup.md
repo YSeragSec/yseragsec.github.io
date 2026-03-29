@@ -54,8 +54,8 @@ cat "spaces in this filename"
 
 Or using tab completion — type the first letter and press Tab.
 
-![Bandit 02](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img4.png)
-![Bandit 02](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img5.png)
+![Bandit 02](/assets/img/posts/CATEntryLevel/Overthewire/img4.png)
+![Bandit 02](/assets/img/posts/CATEntryLevel/Overthewire/img5.png)
 
 
 ---
@@ -72,8 +72,8 @@ cat .hidden
 
 **Explanation:** In Linux, files starting with `.` are hidden and won't show with a plain `ls`. The `-a` flag reveals them.
 
-![Bandit 03](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img6.png)
-![Bandit 03](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img7.png)
+![Bandit 03](/assets/img/posts/CATEntryLevel/Overthewire/img6.png)
+![Bandit 03](/assets/img/posts/CATEntryLevel/Overthewire/img7.png)
 
 
 ---
@@ -90,8 +90,8 @@ cat ./-file07
 
 **Explanation:** The `file` command identifies the type of each file. Use it with a wildcard to check all at once — the one labeled "ASCII text" is the human-readable one.
 
-![Bandit 04](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img8.png)
-![Bandit 04](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img9.png)
+![Bandit 04](/assets/img/posts/CATEntryLevel/Overthewire/img8.png)
+![Bandit 04](/assets/img/posts/CATEntryLevel/Overthewire/img9.png)
 
 ---
 
@@ -105,8 +105,8 @@ find . -type f -readable ! -executable -size 1033c
 
 **Explanation:** The `find` command with `-readable`, `! -executable`, and `-size 1033c` (c = bytes) narrows it down precisely.
 
-![Bandit 05](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img10.png)
-![Bandit 05](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img11.png)
+![Bandit 05](/assets/img/posts/CATEntryLevel/Overthewire/img10.png)
+![Bandit 05](/assets/img/posts/CATEntryLevel/Overthewire/img11.png)
 
 ---
 
@@ -120,8 +120,8 @@ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 
 **Explanation:** Searching from `/` (root) covers the whole server. `2>/dev/null` redirects permission-denied errors to null so they don't clutter the output.
 
-![Bandit 06](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img12.png)
-![Bandit 06](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img13.png)
+![Bandit 06](/assets/img/posts/CATEntryLevel/Overthewire/img12.png)
+![Bandit 06](/assets/img/posts/CATEntryLevel/Overthewire/img13.png)
 
 ---
 
@@ -135,8 +135,8 @@ grep "millionth" data.txt
 
 **Explanation:** `grep` searches inside the file and returns only the matching line. Fast and simple.
 
-![Bandit 07](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img14.png)
-![Bandit 07](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img15.png)
+![Bandit 07](/assets/img/posts/CATEntryLevel/Overthewire/img14.png)
+![Bandit 07](/assets/img/posts/CATEntryLevel/Overthewire/img15.png)
 
 ---
 
@@ -150,8 +150,8 @@ sort data.txt | uniq -u
 
 **Explanation:** `sort` arranges lines alphabetically so duplicates are adjacent. `uniq -u` then prints only lines that appear exactly once.
 
-![Bandit 08](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img16.png)
-![Bandit 08](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img17.png)
+![Bandit 08](/assets/img/posts/CATEntryLevel/Overthewire/img16.png)
+![Bandit 08](/assets/img/posts/CATEntryLevel/Overthewire/img17.png)
 
 ---
 
@@ -165,8 +165,8 @@ strings data.txt | grep "==="
 
 **Explanation:** `strings` extracts all human-readable text from a binary file. Piping to `grep "==="` filters for lines starting with multiple `=` signs as described.
 
-![Bandit 09](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img18.png)
-![Bandit 09](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img19.png)
+![Bandit 09](/assets/img/posts/CATEntryLevel/Overthewire/img18.png)
+![Bandit 09](/assets/img/posts/CATEntryLevel/Overthewire/img19.png)
 
 ---
 
@@ -180,8 +180,8 @@ cat data.txt | base64 -d
 
 **Explanation:** `base64 -d` decodes base64-encoded text back to its original form.
 
-![Bandit 10](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img20.png)
-![Bandit 10](/assets/img/posts/CATReloadedEntryLevel/Overthewire/img21.png)
+![Bandit 10](/assets/img/posts/CATEntryLevel/Overthewire/img20.png)
+![Bandit 10](/assets/img/posts/CATEntryLevel/Overthewire/img21.png)
 
 ---
 
