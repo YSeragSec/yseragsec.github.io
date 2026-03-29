@@ -88,8 +88,6 @@ order: 4
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking."
        alt="Typing SVG" />
