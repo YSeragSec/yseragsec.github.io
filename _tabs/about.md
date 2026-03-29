@@ -88,14 +88,23 @@ order: 4
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking."
+       alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" style="width:100%;max-width:700px;" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
+       width="700"
+       alt="GitHub Streak" />
 </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true" style="width:100%;max-width:700px;" alt="GitHub Activity Graph"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSeragSec&theme=tokyo-night&hide_border=true&area=true"
+       width="700"
+       alt="GitHub Activity Graph" />
 </p>
 
 ---
