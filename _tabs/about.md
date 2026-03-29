@@ -92,13 +92,13 @@ order: 4
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=reactdark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
        width="700"
        alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&theme=high-contrast&hide_border=true&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&theme=react-dark&hide_border=true&area=true"
        width="700"
        alt="GitHub Activity Graph" />
 </p>
