@@ -85,22 +85,26 @@ order: 4
 </div>
 ---
 
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=0d1117&borderRadius=0px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
+</div>
+
+---
+
 ## GitHub Stats
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking."
-       alt="Typing SVG" />
+        alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&theme=reactdark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
-       width="700"
-       alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&background=0d1117&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
+        width="700" 
+        alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&theme=react-dark&hide_border=true&area=true"
-       width="700"
-       alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&bg_color=0d1117&hide_border=true&area=true"
+        width="700"
+        alt="GitHub Activity Graph" />
 </p>
-
----
