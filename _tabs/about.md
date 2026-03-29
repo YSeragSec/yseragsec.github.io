@@ -81,24 +81,29 @@ order: 4
 <br>
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=121212&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
+  <!-- Discord Status (Lanyard) -->
+  <img src="https://lanyard.cnrad.dev/api/751180791492378774?theme=dark&bg=252529&borderRadius=5px&idleMessage=Probably%20hacking%20something..." alt="Discord Status"/>
 </div>
+
 ---
 
 ## GitHub Stats
 <p align="center">
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking."
         alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YSeragSec&background=121212&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=888888&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500"
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=YSeragSec&background=252529&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=888888&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=70A5FD&date_format=j%20M%5B%20Y%5D&card_width=500"
         width="700" 
         alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&bg_color=121212&color=70A5FD&line=70A5FD&point=ffffff&hide_border=true&area=true"
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&bg_color=252529&color=70A5FD&line=70A5FD&point=ffffff&hide_border=true&area=true"
         width="700"
         alt="GitHub Activity Graph" />
 </p>
