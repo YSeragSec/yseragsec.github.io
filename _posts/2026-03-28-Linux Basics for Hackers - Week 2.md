@@ -9,7 +9,6 @@ last_modified_at: 2026-03-28 00:00:00 +0200
 
 <p style="font-size: 1.15em;">These are my Week 2 notes from the <b>CAT Reloaded</b> entry-level program, based on <a href="https://drive.google.com/file/d/1K1HAnhEiAErb43LcwN01vkv6TI2_8HKZ/view?usp=sharing">Linux Basics for Hackers</a> by OccupyTheWeb. Chapters 11, 15, and 17 were skipped per the program.</p>
 
-![Linux](/assets/img/posts/CATReloadedEntryLevel/image%2037.png)
 
 ---
 
