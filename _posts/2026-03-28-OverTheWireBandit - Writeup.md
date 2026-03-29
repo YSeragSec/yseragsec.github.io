@@ -26,7 +26,7 @@ cat readme
 ![Bandit 00](/assets/img/posts/CATEntryLevel/Overthewire/img0.png)
 ![Bandit 00](/assets/img/posts/CATEntryLevel/Overthewire/img1.png)
 
-
+ 
 ---
 
 ## Level 1 → Level 2
