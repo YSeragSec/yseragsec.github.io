@@ -4,19 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hi there, I'm Yousef 👋
+# Hi there, I'm Yousef
 
 > *"The quieter you become, the more you can hear."*
 
-- 🎓 First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
-- 🔐 Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
-- 🛠️ IT Support Technician with hands-on hardware & networking experience
+- First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
+- Cybersecurity enthusiast & active member of **CAT Reloaded** security circle
+- IT Support Technician with hands-on hardware & networking experience
 
 ---
 
 ## ⚔️ Skills & Tools
 
-### 🔍 Offensive & Recon
+### Offensive & Recon
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
@@ -27,7 +27,7 @@ order: 4
 <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logoColor=white" alt="GDB"/>
 </div>
 
-### 🧪 Forensics & Analysis
+### Forensics & Analysis
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" alt="Hashcat"/>
@@ -39,7 +39,7 @@ order: 4
 <img src="https://img.shields.io/badge/Steghide-555555?style=for-the-badge&logoColor=white" alt="Steghide"/>
 </div>
 
-### 🖥️ Systems & Platforms
+### Systems & Platforms
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
@@ -48,7 +48,7 @@ order: 4
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
 </div>
 
-### 💻 Languages & Dev
+### Languages & Dev
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -57,7 +57,7 @@ order: 4
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </div>
 
-### 🌐 Networking
+### Networking
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
@@ -85,7 +85,7 @@ order: 4
 </div>
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+the+making...;Security+Member+%40+CAT+Reloaded;Always+learning%2C+always+hacking."
        alt="Typing SVG" />
