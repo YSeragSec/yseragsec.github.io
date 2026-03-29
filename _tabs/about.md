@@ -14,7 +14,7 @@ order: 4
 
 ---
 
-## ⚔️ Skills & Tools
+# Skills & Tools
 
 ### Offensive & Recon
 
