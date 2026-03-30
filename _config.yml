@@ -121,9 +121,6 @@ comments:
     input_position: bottom
     lang: en
     reactions_enabled: 1
-    # Update these two lines:
-    theme: light
-    dark_theme: dark_dimmed
 
 
 
