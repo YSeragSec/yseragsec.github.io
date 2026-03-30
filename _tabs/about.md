@@ -100,3 +100,6 @@ order: 4
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lockveil&bg_color=1B1B1E&color=70A5FD&line=70A5FD&point=ffffff&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
