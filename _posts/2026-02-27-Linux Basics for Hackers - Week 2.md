@@ -1,10 +1,10 @@
 ---
-title: "Linux Basics for Hackers — Week 2 Notes"
-date: 2026-03-28 00:00:00 +0200
+title: "Linux — Week 2 Notes"
+date: 2026-02-27 00:00:00 +0200
 categories: [CAT Entry Level, Linux]
 tags: [linux, bash, kali, networking, permissions, scripting, services, privacy, fundamentals]
 description: My Week 2 notes from the CAT Reloaded entry-level program. Covers Linux basics from OccupyTheWeb's book — navigation, text manipulation, networking, permissions, processes, scripting, services, anonymity, wireless, and job scheduling.
-last_modified_at: 2026-03-28 00:00:00 +0200
+last_modified_at: 2026-02-27 00:00:00 +0200
 ---
 
 <p style="font-size: 1.15em;">These are my Week 2 notes from the <b>CAT Reloaded</b> entry-level program, based on <a href="https://drive.google.com/file/d/1K1HAnhEiAErb43LcwN01vkv6TI2_8HKZ/view?usp=sharing">Linux Basics for Hackers</a> by OccupyTheWeb. Chapters 11, 15, and 17 were skipped per the program.</p>
