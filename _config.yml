@@ -113,17 +113,20 @@ comments:
   provider: giscus 
 
   # Giscus options › https://giscus.app
-  giscus:
-    repo: lockveil/lockveil.github.io
-    repo_id: R_kgDORzTv_Q
-    category: General
-    category_id: DIC_kwDORzTv_c4C5nVv
-    mapping: pathname
-    strict: 0
-    input_position: bottom
-    lang: en
-    reactions_enabled: 1
-    theme: transparent_dark
+    src: "https://giscus.app/client.js"
+        repo: lockveil/lockveil.github.io
+        repo_id: R_kgDORzTv_Q
+        category: General
+        category_id: DIC_kwDORzTv_c4C5nVv
+        mapping: pathname
+        strict: 0
+        reactions_enabled: 1
+        emit_metadata: 0
+        input_position: bottom
+        theme: transparent_dark
+        lang: en
+        crossorigin: anonymous
+
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
