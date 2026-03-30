@@ -1,10 +1,10 @@
 ---
 title: "OverTheWire Bandit — Level 0 to Level 10 Writeup"
-date: 2026-03-28 00:00:00 +0200
+date: 2026-02-28 00:00:00 +0200
 categories: [CAT Entry Level, Writeup]
 tags: [linux, overthewire, bandit, writeup, find, grep, strings, base64, sort, uniq, ctf]
 description: Writeup for OverTheWire Bandit levels 0 through 10. Covers basic Linux file reading, hidden files, find command, strings, sort/uniq, and base64 decoding.
-last_modified_at: 2026-03-28 00:00:00 +0200
+last_modified_at: 2026-02-28 00:00:00 +0200
 ---
 
 <p style="font-size: 1.15em;"><a href="https://overthewire.org/wargames/bandit/">Bandit</a> is a wargame by OverTheWire designed for absolute beginners to learn Linux basics through practical challenges. Each level gives you a clue — you have to find the password for the next level.</p>
