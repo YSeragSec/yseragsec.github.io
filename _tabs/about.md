@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hi there, I'm Yousef
-
 > *"The quieter you become, the more you can hear."*
 
 - First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
@@ -71,11 +69,10 @@ order: 4
 ### Connect
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
-<a href="https://www.linkedin.com/in/yousefserag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/YSeragSec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://yseragsec.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog"/></a>
+<a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/lockveil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://discord.com/users/751180791492378774"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="mailto:yousefserag@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:lockveil@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br>
