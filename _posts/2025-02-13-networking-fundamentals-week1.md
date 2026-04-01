@@ -5,6 +5,8 @@ categories: [CAT Entry Level, Networking]
 tags: [networking, OSI, HTTP, DNS, TCP, UDP, IP, subnetting, DHCP, NAT, routing, fundamentals]
 description: My Week 1 notes from the CAT Reloaded entry-level program. Covers the OSI model layers, DNS, HTTP, TCP/UDP, IP addressing, subnetting, DHCP, NAT, and routing.
 last_modified_at: 2026-02-1 00:00:00 +0200
+image
+  path: assets/img/posts/CATEntryLevel/Networking/ASCII - Earth is a space station!.jpg
 ---
 
 <p style="font-size: 1.15em;">These are my personal study notes from the 4-week <b>CAT Reloaded</b> entry-level program. Week 1 focused on networking fundamentals — the foundation every security engineer needs to have solid before anything else.</p>
