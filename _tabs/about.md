@@ -44,6 +44,8 @@ order: 4
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
 </div>
 
 ### Languages & Dev
@@ -60,7 +62,6 @@ order: 4
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
 <img src="https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge&logoColor=white" alt="TCP/IP"/>
-<img src="https://img.shields.io/badge/DNS-005571?style=for-the-badge&logoColor=white" alt="DNS"/>
 <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logoColor=white" alt="Networking"/>
 </div>
 
