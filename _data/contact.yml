@@ -12,11 +12,11 @@
   url:  "https://discordapp.com/users/751180791492378774"
 
 - type: medium
-  icon: "fa-brands fa-medium"
-  url:  "https://medium.com/@lockveil"
-
+  icon: fa-brands fa-medium
+  url: https://medium.com/@lockveil
+  
   - type: email
-  icon: "fas fa-envelope"
+    icon: "fas fa-envelope"
 
 # Uncomment and complete the url below to enable more contact options
 #
