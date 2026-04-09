@@ -1,6 +1,6 @@
 ---
 title: "Phantom Extraction - CAT CTF 2026 Writeup"
-date: 2026-02-13 00:00:00 +0200
+date: 2026-02-30 00:00:00 +0200
 categories: [CAT CTF 2026, Networking]
 tags: [wireshark, dns-tunneling, elf, xor, cyberchef, network-forensics, reverse-engineering]
 description: 
