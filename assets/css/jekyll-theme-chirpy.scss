@@ -1,6 +1,5 @@
 ---
 ---
-
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
@@ -9,15 +8,10 @@
 ';
 
 /* append your custom style below */
-
-/* === your custom styles below === */
-
-/* append your custom style below */
-
-html[data-mode="dark"] {
-  --main-bg: #111111;
-}
-
+html[data-mode="dark"],
 html:not([data-mode="light"]) {
   --main-bg: #111111;
+  --sidebar-bg: #111111;
+  --topbar-bg: #111111;
+  --nav-bg: #111111;
 }
