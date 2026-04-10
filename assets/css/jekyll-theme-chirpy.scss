@@ -12,7 +12,12 @@
 
 /* === your custom styles below === */
 
-[data-mode="dark"] {
+/* append your custom style below */
+
+html[data-mode="dark"] {
   --main-bg: #111111;
-  --sidebar-bg: #0a0a0a;
+}
+
+html:not([data-mode="light"]) {
+  --main-bg: #111111;
 }
