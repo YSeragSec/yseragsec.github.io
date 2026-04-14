@@ -10,8 +10,8 @@
 /* append your custom style below */
 html[data-mode="dark"],
 html:not([data-mode="light"]) {
-  --main-bg: #111111;
-  --sidebar-bg: #1E1E1E;
-  --topbar-bg: #111111;
-  --nav-bg: #1E1E1E;
+  --main-bg: #000000;
+  --sidebar-bg: #000000;
+  --topbar-bg: #000000;
+  --nav-bg: #000000;
 }
