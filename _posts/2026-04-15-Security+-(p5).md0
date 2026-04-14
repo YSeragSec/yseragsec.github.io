@@ -1,0 +1,10 @@
+---
+title: "Security+ (SY0-701) — Malware, Attacks & Indicators of Compromise"
+date: 2026-04-14 00:00:50 +0200
+categories: [Infosec Field Notes, Security+ SY0-701]
+tags: ["security+", "sy0-701", "malware", "ddos", "dns-attacks", "wireless-attacks", "ioc", "attack-types"]
+description: Covers malware categories, DoS, DNS/wireless/on-path/replay attacks, malicious code, application/cryptographic/password attacks, and key indicators of compromise.
+last_modified_at: 2026-04-14 00:00:00 +0200
+image:
+  path: assets/img/posts/CAT SOC & DFIR/comptiasecexp.png
+---
