@@ -8,7 +8,7 @@ order: 4
 
 - First Year Software Engineering student @ Mansoura University (Faculty of Computer & Information Sciences)
 - Cybersecurity enthusiast & active member of [**CAT**](https://catreloaded.org/) security circle
-- IT Support Technician with hands-on hardware & networking experience
+- IT Support Technician with hands on hardware, software & networking experience
 
 ---
 
