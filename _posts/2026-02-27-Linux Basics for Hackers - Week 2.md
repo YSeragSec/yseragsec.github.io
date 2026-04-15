@@ -1,5 +1,5 @@
 ---
-title: "Linux: Linux Basics for Hackers by OccupyTheWeb"
+title: "Linux Basics for Hackers by OccupyTheWeb"
 date: 2026-02-27 00:00:00 +0200
 categories: [Infosec Field Notes, Linux]
 tags: ["cat entry level", linux, bash, kali, networking, permissions, scripting, services, privacy, fundamentals]
