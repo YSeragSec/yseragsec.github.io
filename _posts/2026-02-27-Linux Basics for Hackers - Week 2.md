@@ -1,8 +1,8 @@
 ---
-title: "Linux — Week 2: Linux Basics for Hackers by OccupyTheWeb"
+title: "Linux: Linux Basics for Hackers by OccupyTheWeb"
 date: 2026-02-27 00:00:00 +0200
 categories: [Infosec Field Notes, Linux]
-tags: [linux, bash, kali, networking, permissions, scripting, services, privacy, fundamentals]
+tags: ["cat entry level", linux, bash, kali, networking, permissions, scripting, services, privacy, fundamentals]
 description: My Week 2 notes from the CAT Reloaded entry-level program. Covers Linux basics from OccupyTheWeb's book — navigation, text manipulation, networking, permissions, processes, scripting, services, anonymity, wireless, and job scheduling.
 last_modified_at: 2026-02-27 00:00:00 +0200
 image: 
