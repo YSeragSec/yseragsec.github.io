@@ -9,15 +9,6 @@ image:
   path: assets/img/posts/CATEntryLevel/CATCTF26/CATCTF26.png
 ---
 
-
-
----
-title: "Phantom Extraction - CTF Writeup"
-date: 2025-01-01
-categories: [CTF, Forensics]
-tags: [wireshark, dns-tunneling, elf, xor, cyberchef, network-forensics, reverse-engineering]
----
-
 # Phantom Extraction
 
 > "I know that a rev guy created this challenge, I just can't prove it"
