@@ -1,8 +1,8 @@
 ---
-title: "Networking — Week 1: OSI Model, HTTP, DNS, TCP/UDP & More"
+title: "Networking: OSI Model, HTTP, DNS, TCP/UDP & More"
 date: 2026-02-13 00:00:00 +0200
 categories: [Infosec Field Notes, Networking]
-tags: [networking, OSI, HTTP, DNS, TCP, UDP, IP, subnetting, DHCP, NAT, routing, fundamentals]
+tags: ["cat entry level", networking, OSI, HTTP, DNS, TCP, UDP, IP, subnetting, DHCP, NAT, routing, fundamentals]
 description: My Week 1 notes from the CAT Reloaded entry-level program. Covers the OSI model layers, DNS, HTTP, TCP/UDP, IP addressing, subnetting, DHCP, NAT, and routing.
 last_modified_at: 2026-02-1 00:00:00 +0200
 image:
