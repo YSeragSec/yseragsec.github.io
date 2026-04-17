@@ -7,7 +7,7 @@ tags: ["security+", "sy0-601", "security-controls", "cia-triad", "threat-actors"
 description: "Covers core Security+ SY0-601 concepts including foundational security, threat actor taxonomy, network reconnaissance, vulnerability scanning, and penetration testing."
 last_modified_at: 2026-04-14 00:00:00 +0200
 image:
-  path: https://github.com/user-attachments/assets/ff1ba03e-1594-496d-b732-de4a275b91fd
+  path: https://github.com/user-attachments/assets/ea601ed1-55a5-4cbc-a429-3f9fa4b08299
 ---
 
 ## 1. Security Operations Basics
