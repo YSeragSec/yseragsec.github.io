@@ -14,51 +14,6 @@ image:
 
 This post covers core Security+ (SY0-701) concepts from Week 1, organized into four major topic areas: foundational security concepts, threat actor taxonomy, network reconnaissance tools, vulnerability scanning techniques, and penetration testing concepts.
 
----
-
-## Table of Contents
-
-1. [Security Operations Basics](#1-security-operations-basics)
-2. [The CIA Triad and Non-Repudiation](#2-the-cia-triad-and-non-repudiation)
-3. [Security Controls](#3-security-controls)
-   - [Control Categories](#31-control-categories)
-   - [Control Types (Functional Descriptors)](#32-control-types-functional-descriptors)
-4. [Vulnerability, Threat, and Risk](#4-vulnerability-threat-and-risk)
-5. [Threat Actors](#5-threat-actors)
-   - [Attributes of Threat Actors](#51-attributes-of-threat-actors)
-   - [Categories of Threat Actors](#52-categories-of-threat-actors)
-6. [Attack Vectors](#6-attack-vectors)
-7. [Threat Intelligence](#7-threat-intelligence)
-   - [Research Methods](#71-research-methods)
-   - [Intelligence Providers and Models](#72-intelligence-providers-and-models)
-8. [Network Reconnaissance Tools](#8-network-reconnaissance-tools)
-   - [Basic CLI Tools](#81-basic-cli-tools)
-   - [Routing and Path Discovery](#82-routing-and-path-discovery)
-   - [Nmap — IP Scanning and Service Discovery](#83-nmap--ip-scanning-and-service-discovery)
-   - [Additional Reconnaissance Tools](#84-additional-reconnaissance-tools)
-9. [Packet Capture and Analysis](#9-packet-capture-and-analysis)
-   - [Capture Methods](#91-capture-methods)
-   - [tcpdump](#92-tcpdump)
-   - [Wireshark](#93-wireshark)
-   - [Packet Injection and Replay](#94-packet-injection-and-replay)
-   - [Exploitation Frameworks and Netcat](#95-exploitation-frameworks-and-netcat)
-10. [Vulnerability Types and Weak Configurations](#10-vulnerability-types-and-weak-configurations)
-    - [Software Vulnerabilities and Patch Management](#101-software-vulnerabilities-and-patch-management)
-    - [Zero-Day and Legacy Platform Vulnerabilities](#102-zero-day-and-legacy-platform-vulnerabilities)
-    - [Weak Host Configurations](#103-weak-host-configurations)
-    - [Weak Network Configurations](#104-weak-network-configurations)
-    - [Impacts from Vulnerabilities](#105-impacts-from-vulnerabilities)
-11. [Vulnerability Scanning](#11-vulnerability-scanning)
-    - [Scan Types](#111-scan-types)
-    - [CVE and CVSS](#112-cve-and-cvss)
-    - [Credentialed vs. Non-Credentialed Scanning](#113-credentialed-vs-non-credentialed-scanning)
-12. [Penetration Testing Concepts](#12-penetration-testing-concepts)
-    - [Rules of Engagement](#121-rules-of-engagement)
-    - [Attack Profiles (Box Types)](#122-attack-profiles-box-types)
-    - [Exercise Types and Bug Bounties](#123-exercise-types-and-bug-bounties)
-13. [Quick Review / Exam Cheat Sheet](#quick-review--exam-cheat-sheet)
-
----
 
 ## 1. Security Operations Basics
 
