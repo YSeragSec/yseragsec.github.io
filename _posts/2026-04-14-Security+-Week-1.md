@@ -3,18 +3,12 @@ layout: post
 title: "Week 1: Security+ Fundamentals — Controls, Threats, Reconnaissance & Assessments"
 date: 2026-04-14 00:00:00 +0200
 categories: [Infosec Field Notes, Security+ SY0-601]
-tags: ["security+", "sy0-701", "security-controls", "cia-triad", "threat-actors", "soc", "threat-intelligence", "nmap", "vulnerability-scanning", "penetration-testing", "reconnaissance"]
-description: A clean, exam focused study guide covering Security+ core concepts from Week 1 — CIA Triad, security controls, threat actors, network reconnaissance tools, vulnerability scanning, and penetration testing concepts.
+tags: ["security+", "sy0-601", "security-controls", "cia-triad", "threat-actors", "soc", "threat-intelligence", "nmap", "vulnerability-scanning", "penetration-testing", "reconnaissance"]
+description: covers core Security+ (SY0-601) concepts, organized into four major topic areas: foundational security concepts, threat actor taxonomy, network reconnaissance tools, vulnerability scanning techniques, and penetration testing concepts.
 last_modified_at: 2026-04-14 00:00:00 +0200
 image:
   path: assets/img/posts/CAT SOC & DFIR/Gemini_Generated_Image_paqmbfpaqmbfpaqm.png
 ---
-
-# Week 1: Security+ Fundamentals — Controls, Threats, Reconnaissance & Assessments
-
-This post covers core Security+ (SY0-701) concepts from Week 1, organized into four major topic areas: foundational security concepts, threat actor taxonomy, network reconnaissance tools, vulnerability scanning techniques, and penetration testing concepts.
-
-
 ## 1. Security Operations Basics
 
 ### Security Operations Center (SOC)
