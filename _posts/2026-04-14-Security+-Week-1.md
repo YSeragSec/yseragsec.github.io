@@ -9,6 +9,7 @@ last_modified_at: 2026-04-14 00:00:00 +0200
 image:
   path: assets/img/posts/CAT SOC & DFIR/Gemini_Generated_Image_paqmbfpaqmbfpaqm.png
 ---
+
 ## 1. Security Operations Basics
 
 ### Security Operations Center (SOC)
